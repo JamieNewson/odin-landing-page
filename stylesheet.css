@@ -1,0 +1,51 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.hero,
+footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+}
+
+.title p,
+.banner a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.logo {
+  font-size: 24px;
+}
+
+.sign-up {
+  color: #f9faf8;
+  background-color: #3882f6;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.information h2 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.testimonial {
+  background-color: #e5e7eb;
+  color: #1f2937;
+}
+
+.testimonial p {
+  font-size: 36px;
+  font-weight: light;
+  font-style: italic;
+}
+
+footer {
+  color: #e5e7eb;
+}
