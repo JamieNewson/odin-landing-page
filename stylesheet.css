@@ -69,8 +69,11 @@ footer {
 .sign-up {
   color: #f9faf8;
   background-color: #3882f6;
-  border-radius: 10px;
-  font-weight: bold;
+  border-radius: 7px;
+  border: 0px;
+  font-size: 19px;
+  margin: 10px 0px 0px 5px;
+  padding: 7px 30px;
 }
 
 .information h2 {
