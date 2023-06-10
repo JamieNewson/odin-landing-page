@@ -113,12 +113,23 @@ footer {
 .testimonial {
   background-color: #e5e7eb;
   color: #1f2937;
+  padding: 100px 0;
 }
 
 .testimonial p {
   font-size: 36px;
   font-weight: light;
   font-style: italic;
+}
+
+.quote {
+  max-width: 800px;
+  margin-left: 150px;
+}
+
+.quote-name {
+  text-align: right;
+  margin-right: 50px;
 }
 
 footer {
